@@ -1,1 +1,1 @@
-# test-repo-submodules
+A test repository that uses submodules
